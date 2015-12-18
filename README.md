@@ -50,6 +50,7 @@ Please read the [contribution guidelines](contributing.md) to contribute.
 * [NXT](http://nxt.org/) - (Under development) Financial platform, with NXT coin.
 * [Namecoin](https://en.wikipedia.org/wiki/Namecoin) - Fork of bitcoin, intended as a decentralized domain name registry.
 * [Storj](http://storj.io/) - (Under development) Distributed data, with StorjCoin cryptocurrency.
+* [Peershares](http://peershares.net/) - Dapp template using Peercoin for stakeholder divendends.
 
 ### Related Lists
 
