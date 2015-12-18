@@ -11,6 +11,7 @@ Please read the [contribution guidelines](contributing.md) to contribute.
 * [Lighthouse](https://www.vinumeris.com/lighthouse) - Crowdfunding, using bitcoin multisig "smart contracts".
 * [OpenBazaar](https://openbazaar.org/) - (Under development) Marketplace, with store fronts and moderators.
 * [P2Pool](https://github.com/p2pool/p2pool) - Bitcoin mining pool.
+* [B&C Exchange](https://bcexchange.org/) - (Under development) Decentralized Bitcoin/Altcoin Exchange
 
 ### Anonymity and Proxies
 
